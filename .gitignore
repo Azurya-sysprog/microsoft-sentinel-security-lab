@@ -1,0 +1,21 @@
+# Sensitive or raw security evidence
+*.zip
+*.evtx
+*.csv
+*.log
+*.pcap
+*.pcapng
+
+# Local evidence and secrets
+evidence/
+secrets/
+credentials/
+.env
+*.key
+*.pem
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
