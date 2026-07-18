@@ -17,3 +17,10 @@ The lab is designed to remain within an approximate maximum budget of A$20.
 ## Important Note
 
 Stopping Windows inside the operating system might not stop Azure compute charges. The VM should be shown as **Stopped (deallocated)** in the Azure portal.
+
+## Implemented Controls
+
+- Monthly budget created: A$20
+- Alert thresholds: 50%, 75%, 90% and 100%
+- Alert recipient configured
+- Budget scope: Azure subscription

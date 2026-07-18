@@ -25,7 +25,7 @@ Microsoft Sentinel Security Monitoring and Incident Response Lab
 | Resource group | rg-sentinel-portfolio-aue | Australia East | Pending |
 | Log Analytics workspace | law-sentinel-portfolio-aue | Australia East | Pending |
 | Microsoft Sentinel | law-sentinel-portfolio-aue | Australia East | Pending |
-| Windows VM | vm-win-sentinel-lab | Australia East | Pending |
+| Windows VM | vm-win-sentinel-lab | Australia East | Completed |
 | Data Collection Rule | dcr-windows-security-events | Australia East | Pending |
 
 ## Issues Encountered
